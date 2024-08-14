@@ -10,7 +10,7 @@ Goal: Make it easier for Unity developers to migrate to Unreal Engine by providi
 2. Use Ahead-Of-Time (AOT) Compilation
 Objective: Support AOT compilation for platforms where Just-In-Time (JIT) compilation is not allowed or practical.
 
-Goal: Ensure compatibility with platforms such as iOS and other environments requiring AOT.
+Goal: Ensure compatibility with platforms requiring AOT.
 
 3. Embed Mono Runtime
 Objective: Integrate the Mono runtime into Unreal Engine to support managed C# code execution.
