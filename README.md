@@ -1,2 +1,2 @@
 # UnrealMono
-WIP - Mono Running iin Unreal Engine doing AOT
+WIP - Mono Running in Unreal Engine doing AOT
